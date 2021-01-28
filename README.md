@@ -12,8 +12,6 @@ Sou um estudante e amante da programação, aonde venho constantemente aprimoran
 
 
 
-<img src = "https://github-readme-stats.vercel.app/api?username=felipe2911&show_icons=true&theme=dark" />   <img align = "top" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=felipe2911&layout=compact&hide=shell&theme=dark" />
-
 <!--
 **felipe2911/felipe2911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

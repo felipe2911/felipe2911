@@ -10,6 +10,7 @@ Sou um estudante e amante da programação, aonde venho constantemente aprimoran
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-carvalho-a825311a3)](https://www.linkedin.com/in/felipe-carvalho-a825311a3)  [![Portfólio Badge](https://img.shields.io/badge/-Portfólio-black?style=flat-square&logo=HomeAdvisor&logoColor=white&link=http://felipe29.heliohost.us/index.html)](http://felipe29.heliohost.us/index.html)
 
+<img src = "https://github-readme-stats.vercel.app/api?username=felipe2911&show_icons=true&theme=dark" />   <img align = "top" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=felipe2911&layout=compact&hide=shell&theme=dark" />
 
 
 <!--
